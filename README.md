@@ -317,18 +317,16 @@ com
 
 ---
 
-* 회의록 [링크](./output/meeting-log/scrum)
+* 회의록 [링크](./output/meetings)
 * 컨벤션 [링크](./output/convention)
-* 기획서 [링크](./output/1_기획서/Whizzle_기획서.pdf)
-* 요구사항 정의서 [링크](./output/2_요구사항_정의서/Whizzle_요구사항_정의서.xlsx)
-* 화면흐름도 [링크](./output/3_화면흐름도/Whizzle_화면흐름도.pdf)
-* 와이어 프레임 [링크](./output/4_와이어프레임/Whizzle_wireframe.pdf)
-* 프로토타입 [링크](./output/5_프로토타입/Whizzle_prototype.pdf)
-* 기능명세서 & WBS [링크](./output/6_기능명세서_WBS/Whizzle_기능명세서&WBS.xlsx)
-* ERD [링크](./output/7_ERD/Whizzle_ERD.png)
-* API 명세서 [링크](https://www.notion.so/6-API-939b43e287e14412abcbc50b63089aec?pvs=4)
-* 시스템 아키텍처 [링크](output/시스템_아키텍처/Maru_Architecture-1.pdf)
-* E2E 테스트 케이스 - [링크](./output/9_E2E_테스트케이스/Whizzle_E2E_Test.xlsx)
+* 기획서 [링크](https://absorbing-message-792.notion.site/1-98288bc3bb814886ba5dbf2e6a7514c2)
+* 와이어 프레임 [링크](./output/와이어프레임)
+* 프로토타입 [링크](./output/프로토타입)
+* 기능명세서 [링크](./output/기능명세서)
+* ERD [링크](./output/ERD)
+* API 명세서 [링크](./output/API명세서)
+* 시스템 아키텍처 [링크](output/시스템_아키텍처)
+* 포팅 메뉴얼 - [링크](./output/exec)
 * 발표 자료
     * [230421 Maru 중간발표.pdf ](./output/발표자료/230421_마루_중간발표.pdf)
-    * [230519 Maru 최종발표.pdf](./output/발표자료/230519_마루_최종발표.pdf)
+    * [230519 Maru 최종발표.pdf](./output/발표자료/마루_최종발표.pptx)
