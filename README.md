@@ -319,7 +319,7 @@ com
 
 * 회의록 [링크](./output/meetings)
 * 컨벤션 [링크](./output/convention)
-* 기획서 [링크](https://absorbing-message-792.notion.site/1-98288bc3bb814886ba5dbf2e6a7514c2)
+* 기획서 [링크](./output/기획서)
 * 와이어 프레임 [링크](./output/와이어프레임)
 * 프로토타입 [링크](./output/프로토타입)
 * 기능명세서 [링크](./output/기능명세서)
